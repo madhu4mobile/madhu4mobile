@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhu
-- 👀 I’m interested in learning best practices and apply them to my work
-- 🌱 I’m currently learning automation-framework e2e 
+- 👀 I’m interested in leveraging industry best practices and implement them when ever they are useful
+- 🌱 I’m currently preparing a robust automation-framework 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
